@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/Xk0vG1v/product-1-1.jpg",
+    "name": "Nike Airmax 2021",
+    "price": 999,
+    "tags": ["Men", "9@ Master Premium Quality"],
+    "sizes": ["40", "41", "42", "43", "44", "45"]
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/kXf9zJp/product-1-2.jpg",
+    "name": "Adidas Ultraboost",
+    "price": 1299,
+    "tags": ["Women", "7@ Master Premium Quality"],
+    "sizes": ["40", "41", "42", "43", "44", "45"]
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co/2q7J8J0/product-1-1.jpg",
+    "name": "New Balance 574",
+    "price": 899,
+    "tags": ["Men", "5@ Master Premium Quality"],
+    "sizes": ["40", "41", "42", "43", "44", "45"]
+  },
+  {
+    "id": 4,
+    "img": "https://i.ibb.co/sQ1kGjh/product-1-4.jpg",
+    "name": "Puma RS-X",
+    "price": 1099,
+    "tags": ["Women", "3@ Master Premium Quality"],
+    "sizes": ["40", "41", "42", "43", "44", "45"]
+  },
+  {
+    "id": 5,
+    "img": "https://i.ibb.co/QfB1Zbb/product-1-2.jpg",
+    "name": "Adidas Ultraboost",
+    "price": 1299,
+    "tags": ["Men", "5@ Master Premium Quality"],
+    "sizes": ["40", "41", "42", "43", "44", "45"]
+  },
+  {
+    "id": 6,
+    "img": "https://i.ibb.co/4Vz5V11/product-1-4.jpg",
+    "name": "New Balance 574",
+    "price": 899,
+    "tags": ["Women", "7@ Master Premium Quality"],
+    "sizes": ["40", "41", "42", "43", "44", "45"]
+  },
+  {
+    "id": 7,
+    "img": "https://i.ibb.co/KsxKZqr/product-1-7.jpg",
+    "name": "Puma RS-X",
+    "price": 1099,
+    "tags": ["Men", "9@ Master Premium Quality"],
+    "sizes": ["40", "41", "42", "43", "44", "45"]
+  }
+]
